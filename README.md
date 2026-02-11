@@ -35,12 +35,11 @@ Soy un desarrollador apasionado por crear soluciones robustas y escalables. Mi e
 
 ---
 
-### 📈 Mis Estadísticas
+### 📈 Mis Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabrizioValdez&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Fabrizio" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioValdez&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabrizioValdez&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Fabrizio" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioValdez&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Lenguajes de Fabrizio" height="180em" />
 </p>
 
 ---

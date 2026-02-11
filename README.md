@@ -35,9 +35,12 @@ Soy un desarrollador apasionado por crear soluciones robustas y escalables. Mi e
 
 ---
 
-### 📈 Mis Estadísticas de GitHub
+### 📈 Mis Estadísticas
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=FabrizioValdez&show_icons=true&theme=tokyonight" alt="Stats de Fabrizio" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabrizioValdez&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Fabrizio" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioValdez&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -45,6 +48,6 @@ Soy un desarrollador apasionado por crear soluciones robustas y escalables. Mi e
 ### 📫 Contacto
 * **LinkedIn:** www.linkedin.com/in/fabriziovaldezz
 * **Email:** fabriziozevallos159@gmail.com
-* **Portfolio:** [tu-web-personal.com](https://tu-web-personal.com)
+* **Portfolio:** hp994921.wixsite.com
 
 "Transformando lógica en experiencias digitales."

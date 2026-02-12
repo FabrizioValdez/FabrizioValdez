@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Candida Noronha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, Soy Fabrizio Valdez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 ### 🚀 Full Stack Developer | Mobile & Web Enthusiast
 
 Soy un desarrollador apasionado por crear soluciones robustas y escalables. Mi enfoque principal es el desarrollo **Full Stack** y el despliegue eficiente de aplicaciones. Me encanta explorar herramientas modernas para optimizar el flujo de trabajo, desde el código hasta la nube.

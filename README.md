@@ -47,6 +47,6 @@ Soy un desarrollador apasionado por crear soluciones robustas y escalables. Mi e
 ### 📫 Contacto
 * **LinkedIn:** www.linkedin.com/in/fabriziovaldezz
 * **Email:** fabriziozevallos159@gmail.com
-* **Portfolio:** hp994921.wixsite.com
+* **Portfolio:** [hp994921.wixsite.com](https://hp994921.wixsite.com/fabriziovaldez)
 
 "Transformando lógica en experiencias digitales."

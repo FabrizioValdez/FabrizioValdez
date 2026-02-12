@@ -1,73 +1,52 @@
-👋 ¡Hola! Soy Fabrizio Valdez
+# 👋 ¡Hola! Soy Fabrizio Valdez
+### 🚀 Full Stack Developer | Mobile & Web Enthusiast
 
-💻 Desarrollador Full Stack & Mobile
-🚀 Especializado en arquitecturas modernas, APIs escalables y despliegues automatizados.
-⚡ Enfocado en transformar ideas en productos digitales funcionales y listos para producción.
+Soy un desarrollador apasionado por crear soluciones robustas y escalables. Mi enfoque principal es el desarrollo **Full Stack** y el despliegue eficiente de aplicaciones. Me encanta explorar herramientas modernas para optimizar el flujo de trabajo, desde el código hasta la nube.
 
-🧠 Sobre mí
+---
 
-🔥 Construyo aplicaciones web y móviles modernas
+### 🛠️ Mi Stack Tecnológico
 
-⚙️ Diseño APIs RESTful robustas
+#### 🌐 Frontend & Mobile
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-☁️ Implemento CI/CD y despliegues en VPS
+#### ⚙️ Backend Frameworks
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-🐳 Trabajo con contenedores Docker y entornos productivos reales
+#### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-📈 Me enfoco en rendimiento, seguridad y escalabilidad
+---
 
-🛠️ Stack Tecnológico
-🌐 Frontend & Mobile
+### ☁️ Infraestructura & Herramientas
+* **DevOps & Cloud:** Docker (Dokploy), AWS, VPS (Hostinger), SSH.
+* **Control de Versiones:** Git & GitHub.
+* **Especialidades:** APIs RESTful, Arquitectura de Microservicios, Despliegue continuo.
 
+---
 
+### 📈 Mis Estadísticas de GitHub
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FabrizioValdez&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Fabrizio" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioValdez&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Lenguajes de Fabrizio" height="180em" />
+</p>
 
+---
 
+### 📫 Contacto
+* **LinkedIn:** www.linkedin.com/in/fabriziovaldezz
+* **Email:** fabriziozevallos159@gmail.com
+* **Portfolio:** hp994921.wixsite.com
 
-
-
-
-
-⚙️ Backend
-
-
-
-
-
-
-
-
-
-
-🗄️ Bases de Datos
-
-
-
-
-
-
-☁️ Infraestructura & DevOps
-
-🐳 Docker & Dokploy
-
-☁️ AWS (EC2)
-
-🖥️ VPS (Hostinger)
-
-🔐 SSH & automatización de despliegues
-
-🔄 CI/CD con GitHub Actions
-
-🏗️ Arquitectura de microservicios
-
-📊 Estadísticas de GitHub
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=FabrizioValdez&show_icons=true&theme=tokyonight&count_private=true" height="170em"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioValdez&layout=compact&theme=tokyonight&hide=html,css&theme=tokyonight" height="170em"/> </p>
-📫 Conecta conmigo
-
-💼 LinkedIn: https://www.linkedin.com/in/fabriziovaldezz
-
-📧 Email: fabriziozevallos159@gmail.com
-
-🌐 Portfolio: https://hp994921.wixsite.com
-
-💡 Transformando lógica en experiencias digitales.
+"Transformando lógica en experiencias digitales."

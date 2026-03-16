@@ -12,7 +12,7 @@
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-henryvaldezz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henryvaldezz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-portafolio--web-6366F1?style=for-the-badge&logo=vercel&logoColor=white)]([https://portafolio-web-sigma-one.vercel.app](https://portafolio-fabriziovaldez.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portafolio--web-6366F1?style=for-the-badge&logo=vercel&logoColor=white)]([(https://portafolio-fabriziovaldez.vercel.app)])
 [![GitHub](https://img.shields.io/badge/GitHub-FabrizioValdez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabrizioValdez)
 [![Email](https://img.shields.io/badge/Email-fabriziozevallos159-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabriziozevallos159@gmail.com)
 

@@ -72,42 +72,6 @@ Soy un **Full Stack Developer** egresado de TECSUP (Diseño y Desarrollo de Soft
 
 ---
 
-## 🏗️ Proyectos Destacados
-
-### 🚗 TECXION — Plataforma de Asistencia Vial *(Proyecto de Tesis)*
-> Sistema completo de asistencia en carretera con geolocalización en tiempo real.
-
-**Stack:** `Next.js` · `Flutter` · `Node.js` · `Google Maps API` · `Docker` · `VPS`
-
-- Aplicación móvil con Flutter para usuarios en ruta
-- Panel web con Next.js para gestión de servicios
-- Backend RESTful desplegado en VPS con Docker
-
----
-
-### 🔐 User Management System con Kafka
-> Backend seguro con mensajería asíncrona y notificaciones en tiempo real.
-
-**Stack:** `Spring Boot 3` · `Spring Security` · `JWT` · `Apache Kafka` · `MySQL` · `Docker Compose` · `Swagger`  
-**Frontend:** `Next.js` · `TypeScript` · `Tailwind CSS`
-
-- Autenticación y autorización con Spring Security + JWT
-- Eventos asíncronos con Apache Kafka para notificaciones
-- Documentación completa de API con Swagger
-- Arquitectura multi-contenedor con Docker Compose
-
----
-
-### 📦 Sistema de Gestión de Productos *(En desarrollo)*
-> CRUD completo con autenticación, subida de imágenes y arquitectura containerizada.
-
-**Stack:** `Angular 20` · `Node.js/Express` · `PostgreSQL` · `Docker` · `JWT` · `Multer` · `Tailwind CSS`
-
-- Standalone components con Angular 20
-- Subida de imágenes con Multer
-- Despliegue local con Docker Compose multi-contenedor
-
----
 
 ## 📊 Estadísticas de GitHub
 
